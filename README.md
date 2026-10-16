@@ -285,7 +285,7 @@ industrial-microgrid/
 │   ├── 10_Sensitivity_Analysis.m
 │   └── README.md
 ├── industrial_microgrid_report/
-│   └── Industrial_Microgrid_Detailed_Report_with_Figures_and_Code.docx
+│   └── Industrial_Microgrid_Detailed_Report_with_Figures_and_Code.pdf
 └── Industrial_Microgrid_Report_Images_/
     ├── README_Image_Index.txt
     ├── Fig_1.1_Representative_Industrial_Load_Profile.png
