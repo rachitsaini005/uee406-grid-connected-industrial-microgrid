@@ -309,6 +309,3 @@ The layout above is a recommended repository organization. The downloadable ZIP 
 
 Prepared as an academic power-system practices project. The work applies concepts from load assessment, distributed generation, energy storage, backup generation, energy management, and techno-economic evaluation.
 
-## License
-
-No license is specified by default. If you want others to reuse, modify, or distribute the code, add an appropriate license file and confirm that any included third-party material can be redistributed.
