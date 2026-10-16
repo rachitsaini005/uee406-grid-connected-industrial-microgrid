@@ -272,7 +272,7 @@ A suggested GitHub layout is:
 ```text
 industrial-microgrid/
 ├── README.md
-├── matlab/
+├── industrial_microgrid_matlab/
 │   ├── 01_Industrial_Load_Profile.m
 │   ├── 02_Solar_PV_Generation.m
 │   ├── 03_Battery_Sizing_SOC.m
@@ -284,7 +284,7 @@ industrial-microgrid/
 │   ├── 09_20_Year_Financial_Analysis.m
 │   ├── 10_Sensitivity_Analysis.m
 │   └── README.md
-├── report/
+├── industrial_microgrid_report/
 │   └── Industrial_Microgrid_Detailed_Report_with_Figures_and_Code.docx
 └── images/
     ├── README_Image_Index.txt
